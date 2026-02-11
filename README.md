@@ -29,6 +29,7 @@ The Hospital Patient Dashboard project followed a structured data analysis workf
 -  KPI Development
 -  Dashboard Design
 -  Insight Generation
+---
 ### Workflow Summary
 **Data Collection → Cleaning → Transformation → Analysis → KPI Development → Dashboard Design → Insights**
 ---
