@@ -33,3 +33,5 @@ The Hospital Patient Dashboard project followed a structured data analysis workf
 **Data Collection → Cleaning → Transformation → Analysis → KPI Development → Dashboard Design → Insights**
 
 ## Dashboard
+![Dashboard image](https://github.com/user-attachments/assets/e5d98be5-2778-4233-b134-f67e0e34a953)
+
