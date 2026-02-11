@@ -35,3 +35,19 @@ The Hospital Patient Dashboard project followed a structured data analysis workf
 ## Dashboard
 ![Dashboard image](https://github.com/user-attachments/assets/e5d98be5-2778-4233-b134-f67e0e34a953)
 
+##  Key Insights
+- Hospital revenue shows steady performance across months.  
+- Pediatrics and Surgery departments handle the highest workload.  
+- Chronic illnesses like hypertension and diabetes are highly prevalent.  
+- Average hospital stay is approximately one week.  
+- Gender distribution is evenly balanced.  
+- Middle-aged adults dominate hospital visits.  
+---
+##  Conclusion
+The **Hospital Patient Dashboard** provides a comprehensive view of healthcare operations by integrating financial, clinical, and demographic data into one interactive interface.
+Key outcomes include:
+- Clear visibility into revenue performance  
+- Departmental workload comparison  
+- Patient demographic understanding  
+- Hospitalization trend monitoring  
+This project demonstrates how data analytics can enhance hospital decision-making, optimize resource allocation, and improve patient care delivery.
